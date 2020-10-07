@@ -1,0 +1,6 @@
+###################################################
+To then visualize state manifolds, several algorithms are used that attempt to preserve the structure of the original cell graph when it is plotted in just two or three
+dimensions (such as uniform manifold approximation and projection (UMAP)54, SPRING55 and ForceAtlas2 (ref.56)). Two- dimensional representations are popular and do capture meaningful biological trends. However,
+they can be misleading, as they distort high- dimensional structures upon ‘flattening’ them, and in some cases algorithms force tree- like visual layouts that may further distort the original structure4
+
+为了可视化数据的manifold，我们使用了维度消减，他们在一定程度上保护了数据的局部结构，给我们带来了有用的生物学信息，但是同时也丢弃了部分数据使我们可能对于生物学现象产生误解。
