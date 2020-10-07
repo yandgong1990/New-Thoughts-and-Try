@@ -1,4 +1,8 @@
+###############################################################
 Transcriptomes contain information about multiple aspects of cell identity (for example, cell cycle phase, metabolic state, cell- specific and tissue- specific molecular signatures, and spatially
 restricted marker genes). 
 
 单细胞RNA-seq捕获到的20000多个基因，都代表哪些方面，我们又关注了哪些，哪些是我们没有关注的？？？？？没有关注的他们代表了什么？？？？？？？？
+
+#########################################scRNA-seq的劣势1.瞬时的 2. 每个细胞只能被测一次
+However, current scRNA-seq approaches provide only a snapshot of gene expression and convey little information on the true temporal dynamics and stochastic nature of transcription. A further key limitation of scRNA-seq analysis is that the RNA profile of each individual cell can be analysed only once. 
